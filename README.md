@@ -27,6 +27,6 @@ Here are some ideas to get you started:
     <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=catsncodes&include_all_commits=true&count_private=true&show_icons=true&theme=cobalt2" />
   </a>
   <a href="https://github.com/catsncodes/convoychat">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catsncodes&layout=compact&theme=cobalt2" />
+    <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catsncodes&layout=compact&theme=cobalt2" />
   </a>
 </div>
