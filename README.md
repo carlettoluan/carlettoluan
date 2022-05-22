@@ -1,5 +1,11 @@
-### Hi there 👋
+### 🌙 Olá, Sou o Luan. 👋👋  ☁️
+## 🌔
 
+- 🔭 Advogado, em transição de carreira para desenvolvedor. Estudo Java, com foco em SpringBoot e Backend.
+- 🌱 Gosto de design e tenho curiosidade de aprender mais sobre javascript, react e css.
+- 📫 carlettoluan@gmail.com
+- 😄 Pronouns: ele/dele
+- ⚡Em busca da primeira oportunidade na área como dev. Procurando vagas de jr. ou traineé. 💻
 <!--
 **catsncodes/catsncodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
