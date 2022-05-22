@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <div style="display: flex; justify-content: space-evenly">
   <a href="https://github.com/catsncodes/github-readme-stats">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=PedroVCorsino&include_all_commits=true&count_private=true&show_icons=true&theme=cobalt2" />
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=catsncodes&include_all_commits=true&count_private=true&show_icons=true&theme=cobalt2" />
   </a>
   <a href="https://github.com/catsncodes/convoychat">
     <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVCorsino&layout=compact&theme=cobalt2" />
