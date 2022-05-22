@@ -1,4 +1,4 @@
-### 🌙 Olá, Sou o Luan. 👋👋  ☁️
+### 🌙 Olá, Sou o Luan. 👋👋 
 ## 🌔
 
 - 🔭 Advogado, em transição de carreira para desenvolvedor. Estudo Java, com foco em SpringBoot e Backend.
