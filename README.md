@@ -2,7 +2,7 @@
 ## 🌔
 
 - 🔭 Advogado, em transição de carreira para desenvolvedor. Estudo Java, com foco em SpringBoot e Backend.
-- 🌱 Gosto de design e tenho curiosidade de aprender mais sobre javascript, react e css.
+- 🌱 Gosto de design e tenho curiosidade de aprender mais sobre front-end, javascript, react e css.
 - 📫 carlettoluan@gmail.com
 - 😄 Pronomes: ele/dele
 - ⚡Em busca da primeira oportunidade na área como dev. Procurando vagas de jr. ou traineé. 💻
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!-- code source for template os git status and programming language usage percentuals  -->
 <div style="display: flex; justify-content: space-evenly">
   <a href="https://github.com/catsncodes/github-readme-stats">
     <img height="145" align="center" src="https://github-readme-stats.vercel.app/api?username=catsncodes&include_all_commits=true&count_private=true&show_icons=true&theme=cobalt2" />
