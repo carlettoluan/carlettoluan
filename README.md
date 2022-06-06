@@ -4,6 +4,7 @@
 - 🔭 Advogado, em transição de carreira para desenvolvedor. Estudo Java, com foco em SpringBoot e Backend.
 - 🌱 Gosto de design e tenho curiosidade de aprender mais sobre front-end, javascript, react e css.
 - 📫 carlettoluan@gmail.com
+- 📱 (35) 98876-2276
 - 😄 Pronomes: ele/dele
 - ⚡Em busca da primeira oportunidade na área como dev. Procurando vagas de jr. ou traineé. 💻
 <!--
