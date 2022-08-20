@@ -1,7 +1,8 @@
 ### 🌙 Olá, Sou o Luan. 👋👋 
 ## 🌔
 
-- 🔭 Advogado, em transição de carreira para desenvolvedor. Estudo Java, com foco em SpringBoot e Backend.
+- 💼 Assistente de desenvolvimento na Looplex.
+- 🔭 Advogado e estudante de programação. Estudo Java, com foco em SpringBoot e Backend.
 - 🌱 Gosto de design e tenho curiosidade de aprender mais sobre front-end, javascript, react e css.
 - 📫 carlettoluan@gmail.com
 - 😄 Pronomes: ele/dele
