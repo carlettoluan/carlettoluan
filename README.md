@@ -1,9 +1,9 @@
 ### 🌙 Olá, Sou o Luan. 👋👋 
 ## 🌔
 
-- 💼 Assistente de desenvolvimento na Looplex.
-- 🔭 Desenvolvedor Junior na Looplex. Também sou advogado e estudante de análise e desenvolvimento de sistemas.
-- 🌱 Gosto de design e tenho curiosidade de aprender mais sobre front-end, javascript, react e css.
+- 💼 Desenvolvedor Junior na Looplex.
+- 🔭 Também sou advogado e estudante de análise e desenvolvimento de sistemas.
+- 🌱 Gosto de design e me interesso por front-end, javascript, react e css.
 - 📫 carlettoluan@gmail.com
 - 😄 Pronomes: ele/dele
 - ⚡ Tenho interesses em vagas de javascript e java, com foco em backend. Trabalho atualmente com APIs e integrações do nosso sistema com serviços externos. 💻
