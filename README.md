@@ -2,11 +2,11 @@
 ## 🌔
 
 - 💼 Assistente de desenvolvimento na Looplex.
-- 🔭 Advogado e estudante de programação. Estudo Java, com foco em SpringBoot e Backend.
+- 🔭 Desenvolvedor Junior na Looplex. Também sou advogado e estudante de análise e desenvolvimento de sistemas.
 - 🌱 Gosto de design e tenho curiosidade de aprender mais sobre front-end, javascript, react e css.
 - 📫 carlettoluan@gmail.com
 - 😄 Pronomes: ele/dele
-- ⚡Em busca da primeira oportunidade na área como dev. Procurando vagas de jr. ou traineé. 💻
+- ⚡ Tenho interesses em vagas de javascript e java, com foco em backend. Trabalho atualmente com APIs e integrações do nosso sistema com serviços externos. 💻
 <!--
 **catsncodes/catsncodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
